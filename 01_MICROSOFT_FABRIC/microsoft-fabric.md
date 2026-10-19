@@ -1,7 +1,7 @@
 ---
 id: microsoft-fabric
 type: expertise
-title: [GITBLOG TEST] Microsoft Fabric & Data Platform
+title: GITBLOG TEST Microsoft Fabric & Data Platform
 group: microsoft-fabric
 category: Microsoft Fabric
 createdDate: '2026-09-01'
